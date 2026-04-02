@@ -1,0 +1,16 @@
+{
+	"storeHouse":[
+		{
+			"sourceUrl":"http://tv.xiajunyi.com/xjyck1.json",
+			"sourceName":"👇1.xjy自制仓库👇"
+		},
+		{
+			"sourceUrl":"http://tv.nxog.top/",
+			"sourceName":"2.魔改备用仓库"
+		},
+		{
+			"sourceUrl":"http://tv.xiajunyi.com/xjyck2.json",
+			"sourceName":"3.大合集仓库（未测试）"
+		}
+	]
+}
